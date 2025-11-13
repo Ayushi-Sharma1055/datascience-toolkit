@@ -1,0 +1,17 @@
+Name	Department ID	Class Teacher		Department ID	HOD of Department		HOD Name	Department Name	Major Subject		Major Subject	Credit	Duration of Course (months)		nested vlookup			vlookup			vlookup			vlookup	
+Aditi Sharma	101	Mrs. Gupta		101	Dr. Anil Kumar		Dr. Anil Kumar	Computer Science	Data Structures		Data Structures	4	6		Name	Duration of Course (months)		Name	HOD of Department		Department ID	Major Subject		Credit	Department Name
+Mohan Patel	103	Mr. Singh		102	Prof. Radha Menon		Prof. Radha Menon	Electronics	Circuit Design		Circuit Design	3	5		Aditi Sharma	6		Aditi Sharma	Dr. Anil Kumar		101	Data Structures		4	
+Ria Mehta	102	Ms. Iyer		103	Dr. Mahesh Singh		Dr. Mahesh Singh	Mechanical Engineering	Thermodynamics		Thermodynamics	4	6		Mohan Patel	6		Mohan Patel	Dr. Mahesh Singh		102	Circuit Design		3	
+Neha Joshi	104	Mr. Das		104	Prof. Sneha Joshi		Prof. Sneha Joshi	Civil Engineering	Structural Analysis		Structural Analysis	3	5		Ria Mehta	5		Ria Mehta	Prof. Radha Menon		103	Thermodynamics		4	
+Arjun Verma	101	Mrs. Gupta		105	Dr. Prakash Patel		Dr. Prakash Patel	Electrical Engineering	Power Systems		Power Systems	4	6		Neha Joshi	5		Neha Joshi	Prof. Sneha Joshi		104	Structural Analysis		3	
+Simran Kaur	102	Ms. Iyer		106	Prof. Kavita Sinha		Prof. Kavita Sinha	Chemical Engineering	Organic Chemistry		Organic Chemistry	3	5		Arjun Verma	6		Arjun Verma	Dr. Anil Kumar		105	Power Systems		4	
+Karan Singh	103	Mr. Singh		107	Dr. Rakesh Goyal		Dr. Rakesh Goyal	Physics	Quantum Mechanics		Quantum Mechanics	4	6		Simran Kaur	5		Simran Kaur	Prof. Radha Menon		106	Organic Chemistry		3	
+Priya Nair	104	Mr. Das		108	Prof. Vimla Rao		Prof. Vimla Rao	Mathematics	Applied Mathematics		Applied Mathematics	3	5		Karan Singh	6		Karan Singh	Dr. Mahesh Singh		107	Quantum Mechanics		4	
+Sanjay Rao	101	Mrs. Gupta		109	Dr. Shyam Sundar		Dr. Shyam Sundar	Biology	Microbiology		Microbiology	4	6		Priya Nair	5		Priya Nair	Prof. Sneha Joshi		108	Applied Mathematics		3	
+Tanvi Menon	102	Ms. Iyer		110	Prof. Pankaj Verma		Prof. Pankaj Verma	Business Administration	Marketing		Marketing	3	5		Sanjay Rao	6		Sanjay Rao	Dr. Anil Kumar		109	Microbiology		4	
+Rahul Yadav	103	Mr. Singh		111	Dr. Pooja Bansal		Dr. Pooja Bansal	Psychology	Cognitive Psychology		Cognitive Psychology	4	6		Tanvi Menon	5		Tanvi Menon	Prof. Radha Menon		110	Marketing		3	
+Sneha Agarwal	104	Mr. Das		112	Prof. Suresh Mehta		Prof. Suresh Mehta	Economics	Macroeconomics		Macroeconomics	3	5		Rahul Yadav	6		Rahul Yadav	Dr. Mahesh Singh		111	Cognitive Psychology		4	
+Vikram Chauhan	101	Mrs. Gupta		113	Dr. Reena Sharma		Dr. Reena Sharma	English Literature	Contemporary Literature		Contemporary Literature	4	6		Sneha Agarwal	5		Sneha Agarwal	Prof. Sneha Joshi		112	Macroeconomics		3	
+Meena Pillai	102	Ms. Iyer		114	Prof. Munish Jain		Prof. Munish Jain	Environmental Science	Ecology		Ecology	3	5		Vikram Chauhan	6		Vikram Chauhan	Dr. Anil Kumar		113	Contemporary Literature		4	
+Aman Tiwari	103	Mr. Singh		115	Dr. Arvind Joshi		Dr. Arvind Joshi	Architecture	Urban Planning		Urban Planning	4	6		Meena Pillai	5		Meena Pillai	Prof. Radha Menon		114	Ecology		3	
+															Aman Tiwari	6		Aman Tiwari	Dr. Mahesh Singh		115	Urban Planning		4	
